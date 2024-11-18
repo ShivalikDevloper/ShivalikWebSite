@@ -57,7 +57,7 @@ const Header = () => {
         </div>
       </div>
 
-      <div className="flex justify-between items-center bg-white shadow-md py-2 px-4 fixed left-0 w-full z-10">
+      <div className="flex justify-between items-center bg-white shadow-md py-2 px-4  left-0 w-full z-10">
         {/* Logo */}
         <div className="w-[270px]">
           <img
